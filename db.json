@@ -1,1 +1,26 @@
+{
+    "emitirFactura" : {
+        "numeroFactura": "nroFactura123",
+        "numeroAutorizacion": "nroAutorizacion123",
+        "codigoControl": "codigo123",
+        "nombreArchivo": "archivo123",
+        "archivo": "cari.png",
+        "correo": "xXcartoryXx@gmail.com",
+        "idFacturacionCiclos": 123
+    },
 
+    "reimprimirFactura": {
+        "esValido": true,
+        "mensaje": "hello World!",
+        "datosAdicionales": "from BO-SC",
+        "listaMensajes": [
+            "I am Pedro",
+            "hello 😀"
+        ]
+    },
+
+    "anularFactura": {
+        "esValido": true,
+        "mensaje": "toy Anulando factura...lol"
+    }
+}
